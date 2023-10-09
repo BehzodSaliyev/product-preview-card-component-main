@@ -114,6 +114,9 @@ section {
     font-size: 18px;
     cursor: pointer;
 }
+.blanket-description__button button:hover {
+    background-color: hsl(157, 36%, 27%);
+}
 
 .blanket-description__button button img {
     margin-right: 10px;
